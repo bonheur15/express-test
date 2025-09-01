@@ -1,7 +1,6 @@
 {
   "name": "express-test",
   "module": "api/index.ts",
-  "type": "module",
   "private": true,
   "main": "api/index.ts",
   "scripts": {
